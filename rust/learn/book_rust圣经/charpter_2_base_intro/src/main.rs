@@ -1,3 +1,5 @@
+mod var_main;
+
 // RUST程序的入口函数,
 fn main() {
     // 使用let来声明变量, 进行绑定, a是不可变的
