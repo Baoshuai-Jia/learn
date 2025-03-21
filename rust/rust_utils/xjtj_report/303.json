@@ -1,0 +1,70 @@
+{
+  "serial": "01",
+  "amount_count": 280,
+  "10000": {
+    "amount": 20,
+    "vault": 6,
+    "self_service": 10,
+    "others": 4
+  },
+  "5000": {
+    "amount": 30,
+    "vault": 5,
+    "self_service": 20,
+    "others": 5
+  },
+  "2000": {
+    "amount": 10,
+    "vault": 5,
+    "self_service": 0,
+    "others": 5
+  },
+  "1000": {
+    "amount": 10,
+    "vault": 5,
+    "self_service": 0,
+    "others": 5
+  },
+  "500": {
+    "amount": 30,
+    "vault": 5,
+    "self_service": 20,
+    "others": 5
+  },
+  "200": {
+    "amount": 30,
+    "vault": 5,
+    "self_service": 20,
+    "others": 5
+  },
+  "100": {
+    "amount": 30,
+    "vault": 5,
+    "self_service": 20,
+    "others": 5
+  },
+  "50": {
+    "amount": 30,
+    "vault": 5,
+    "self_service": 20,
+    "others": 5
+  },
+  "20": {
+    "amount": 30,
+    "vault": 5,
+    "self_service": 20,
+    "others": 5
+  },
+  "10": {
+    "amount": 30,
+    "vault": 5,
+    "self_service": 20,
+    "others": 5
+  },
+  "cents": {
+    "amount": 30,
+    "vault": 5,
+    "self_service": 20,
+    "others": 5
+  }
+}
